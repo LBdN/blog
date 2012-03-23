@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>Gamr7 is closed</title>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="main.css" type="text/css" />
+        <link href=".././feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="A Pelican Blog ATOM Feed" />
+        
+
+        <!--[if IE]>
+                <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+
+</head>
+
+<body id="index" class="home">
+
+                
+<section id="content" class="body" style="margin-top:125px">    
+<img src="./logo.png">
+<h1 class="entry-title">Gamr7 is closed</h1>
+    
+    <p>Despite all our efforts, a changing market and some last minute contract cancellations made impossible to continue.</p>
+<p>We worked for 5 years on Urban PAD. We made mistakes and had a few successes.
+The software is not perfect (which one is ?) but this was an honest and solid product. I am proud of what we build.</p>
+<p>I want to thank personnally all who believed in us and our products.
+More specifically, I would like to thank the community of users who trusted us.
+I appreciated your trust and am really sad to see the story ends this way.</p>
+<p>Best regards,</p>
+<div class="line-block">
+<div class="line">Lionel Barret,</div>
+<div class="line"><a class="reference external" href="mailto:lionel&#64;gamr7.com">lionel&#64;gamr7.com</a></div>
+<div class="line">Gamr7 CEO</div>
+<div class="line"><br /></div>
+</div>
+<p>P.S: I know some of you are worried about the license issue. I am inquiring now how to help you with that. The obstacles are legal not technical.</p>
+
+</section>
+
+        <section id="extras" class="body">
+        
+        
+        </section><!-- /#extras -->
+
+
+
+
+
+</body>
+</html>
