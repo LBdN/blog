@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="../." rel="alternate"></link><link href=".././feeds/all-en.atom.xml" rel="self"></link><id>../.</id><updated>2012-03-23T11:23:02Z</updated><entry><title>About me</title><link href=".././about-me.html" rel="alternate"></link><updated>2012-03-23T11:23:02Z</updated><author><name>lionel</name></author><id>.././about-me.html</id><summary type="html">&lt;p&gt;I am a 3O-something guy who loves to build software products, to read, to cook and to draw.
+I have done a lot of different stuff in my work, from working as a consultant for Andersen to be the tool lead developper for Atari.
+( my expertise lies in software publishing (internal or external) : from building the coding pipeline to selecting the marketing way and means. )
+I also Funded my own startup, which closed recently after 5 years (the post-mortem is here) and am now thinking about my next move.&lt;/p&gt;
+&lt;p&gt;You can look at my profiles here and here.&lt;/p&gt;
+</summary></entry></feed>
